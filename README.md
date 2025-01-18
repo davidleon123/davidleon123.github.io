@@ -6,7 +6,7 @@ We built a web-based application that provides an easy-to-use RAG to allow stude
 
 One of the benefits of using the RAG instead of having students use an LLM chatbot like chatGPT is that the answers are based solely on the course material and the risk of having the LLM hallucinate is thus minimal.
 
-It can be accessed at [http://ai-demo.fr](http://ai-demo.fr)
+It can be accessed at [ai-demo.fr](https://ai-demo.fr)
 
 Please note that https access has not yet been activated and you should access the application with http only.
 
